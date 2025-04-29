@@ -24,6 +24,14 @@ Dưới đây là nội dung cho tệp README.md hướng dẫn sử dụng file
 
 2. Nếu bảng đã có tiêu đề, AppScript sẽ sử dụng bảng hiện tại mà không ghi đè.
 
+  Mở file `background.js` chỉnh sửa `AUTH_KEY` và `API_URL` bằng link api google sheets và mã bảo mật ví dụ:
+  ```
+  const AUTH_KEY = 'KJUZXZANN';
+  ```
+  ```
+  const API_URL = 'https://script.google.com/macros/s/AKfycbyMe8j63uZOn7obPe-MMbY0k7Irr26qKkSAi4_OhDis-Hq0q1sg6rL5jzbCsr6MzscjRw/exec';
+  ```
+
 ### Các Chức Năng Chính
 
 #### 1. Gửi Yêu Cầu `POST` Để Thêm Hoặc Xóa Dữ Liệu
