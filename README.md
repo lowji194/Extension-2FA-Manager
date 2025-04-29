@@ -1,7 +1,3 @@
-Dưới đây là phiên bản chỉnh sửa và chuyên nghiệp hơn của tệp README.md:
-
-```markdown
-# Hướng dẫn sử dụng `Update2FA.gs`
 
 `Update2FA.gs` là một tệp AppScript được thiết kế để giúp bạn quản lý các mã xác thực hai yếu tố (Two-Factor Authentication - 2FA) trong Google Sheets. Tệp này hỗ trợ các chức năng như thêm, xóa và đọc dữ liệu 2FA, đồng thời tự động định dạng bảng dữ liệu của bạn.
 
